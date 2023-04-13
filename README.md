@@ -8,10 +8,13 @@ Challenge assignment to demonstrate proficiency in making JavaScript-based inter
 Contains example/target images for the project.
 
 ### Resources
-Contains example dataset from the API endpoint used for the project
+Contains example dataset from the API endpoint used for the project.
 
 ### static/js
 Contains the JavaScript code for making the API call, sorting and arraying the data, and visualizing the data in bar and bubble plots.
+
+### index.html
+Runs the app.js (within static/js) for viewing the visualizations.
 
 ## Instructions
 
