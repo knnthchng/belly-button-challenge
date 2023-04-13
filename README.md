@@ -2,6 +2,8 @@
 
 Challenge assignment to demonstrate proficiency in making JavaScript-based interactive visualizations.
 
+Viewable at https://knnthchng.github.io/belly-button-challenge/
+
 ## Contents
 
 ### Images
